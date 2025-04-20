@@ -1,6 +1,7 @@
 # 🌆 CoolCity – Urban Heat Island Tracker & Mitigation Guide
 
 CoolCity is a full-stack web application focused on **tracking Urban Heat Islands (UHIs)** and promoting awareness about **climate resilience strategies**. It features real-time UHI visualizations, informative content on heat mitigation techniques, and a feedback system to encourage citizen engagement.
+https://cool-city.netlify.app/
 
 ## 🔥 Features
 
@@ -68,7 +69,7 @@ Pull requests are welcome! If you have suggestions, open an issue or fork the pr
 
 
 👨‍💻 Author
-Sheikh Wasimuddin
-Portfolio • GitHub
+Tejas Kalbande
+
 
 
